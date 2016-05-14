@@ -123,3 +123,8 @@ body{
 .flat a:hover:after, .flat a.active:after{
 	background: #9EEB62;
 }
+.logo
+{
+    color: aliceblue;
+    text-align: center;
+}
