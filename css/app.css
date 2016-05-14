@@ -128,3 +128,12 @@ body{
     color: aliceblue;
     text-align: center;
 }
+.footer{
+    margin-top: 40%;
+    background-color: whitesmoke;
+}
+.row
+{
+    max-width: 100%;
+}
+
